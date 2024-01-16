@@ -1,3 +1,3 @@
 # my-portfolio
 
-I am developing my personalised portfolio in React.js
+I am developing my personalised portfolio in HTML, CSS and Javascript.
